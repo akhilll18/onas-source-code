@@ -1,0 +1,15 @@
+User-agent: *
+Allow: /
+
+# Block unnecessary system files or folders
+Disallow: /node_modules/
+Disallow: /src/
+Disallow: /api/
+Disallow: /_next/
+Disallow: /dist/
+Disallow: /tmp/
+Disallow: /404
+Disallow: /server/
+
+# Sitemap location
+Sitemap: https://onasglobal.com/sitemap.xml

@@ -1,0 +1,68 @@
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- Homepage -->
+  <url><loc>https://onasglobal.com/</loc></url>
+
+  <!-- Services → ERP -->
+  <url><loc>https://onasglobal.com/how-we-help/erp/sap</loc></url>
+  <url><loc>https://onasglobal.com/how-we-help/erp/salesforce</loc></url>
+  <url><loc>https://onasglobal.com/how-we-help/erp/netsuite</loc></url>
+  <url><loc>https://onasglobal.com/how-we-help/erp/servicenow</loc></url>
+  <url><loc>https://onasglobal.com/how-we-help/erp/workday</loc></url>
+
+  <!-- Services → Digital Transformation -->
+  <url><loc>https://onasglobal.com/how-we-help/digital-transformation/ai-ml</loc></url>
+  <url><loc>https://onasglobal.com/how-we-help/digital-transformation/cloud-integ</loc></url>
+  <url><loc>https://onasglobal.com/how-we-help/digital-transformation/data-eng-ana</loc></url>
+  <url><loc>https://onasglobal.com/how-we-help/digital-transformation/iot-services</loc></url>
+  <url><loc>https://onasglobal.com/how-we-help/digital-transformation/product-eng</loc></url>
+  <url><loc>https://onasglobal.com/how-we-help/digital-transformation/test-automation</loc></url>
+  <url><loc>https://onasglobal.com/how-we-help/digital-transformation/grc</loc></url>
+  <url><loc>https://onasglobal.com/how-we-help/digital-transformation/it-asset-management</loc></url>
+  <url><loc>https://onasglobal.com/how-we-help/digital-transformation/genai</loc></url>
+  <url><loc>https://onasglobal.com/how-we-help/digital-transformation/devops</loc></url>
+
+  <!-- Services → Managed IT & Operations -->
+  <url><loc>https://onasglobal.com/how-we-help/managed-it-operations/app-maintenance</loc></url>
+  <url><loc>https://onasglobal.com/how-we-help/managed-it-operations/cloud-support</loc></url>
+  <url><loc>https://onasglobal.com/how-we-help/managed-it-operations/cybersecurity</loc></url>
+  <url><loc>https://onasglobal.com/how-we-help/managed-it-operations/it-infra</loc></url>
+  <url><loc>https://onasglobal.com/how-we-help/managed-it-operations/network-support</loc></url>
+  <url><loc>https://onasglobal.com/how-we-help/managed-it-operations/helpdesk</loc></url>
+
+  <!-- Services → Other Services -->
+  <url><loc>https://onasglobal.com/how-we-help/other-services/web-dev</loc></url>
+  <url><loc>https://onasglobal.com/how-we-help/other-services/seo</loc></url>
+  <url><loc>https://onasglobal.com/how-we-help/other-services/social-media</loc></url>
+  <url><loc>https://onasglobal.com/how-we-help/other-services/content-marketing</loc></url>
+  <url><loc>https://onasglobal.com/how-we-help/other-services/email-marketing</loc></url>
+  <url><loc>https://onasglobal.com/how-we-help/other-services/ppc</loc></url>
+
+  <!-- Industries -->
+  <url><loc>https://onasglobal.com/who-we-help/industries</loc></url>
+
+  <!-- Why ONAS -->
+  <url><loc>https://onasglobal.com/why-onas/about-us</loc></url>
+  <url><loc>https://onasglobal.com/why-onas/company</loc></url>
+  <url><loc>https://onasglobal.com/why-onas/mission-principles</loc></url>
+  <url><loc>https://onasglobal.com/why-onas/leadership</loc></url>
+  <url><loc>https://onasglobal.com/why-onas/culture-benefits</loc></url>
+  <url><loc>https://onasglobal.com/why-onas/employees</loc></url>
+  <url><loc>https://onasglobal.com/why-onas/investors</loc></url>
+  <url><loc>https://onasglobal.com/why-onas/life</loc></url>
+
+  <!-- Resources -->
+  <url><loc>https://onasglobal.com/resources/media</loc></url>
+  <url><loc>https://onasglobal.com/resources/ideas</loc></url>
+  <url><loc>https://onasglobal.com/resources/awards</loc></url>
+  <url><loc>https://onasglobal.com/resources/blogs</loc></url>
+  <url><loc>https://onasglobal.com/resources/contact-us</loc></url>
+  <url><loc>https://onasglobal.com/resources/careers</loc></url>
+  <url><loc>https://onasglobal.com/resources/case-studies</loc></url>
+  <url><loc>https://onasglobal.com/resources/newsroom</loc></url>
+
+  <!-- Staffing -->
+  <url><loc>https://onasglobal.com/staffing/submit-a-vacancy/request-a-call-back</loc></url>
+  <url><loc>https://onasglobal.com/staffing/it-consulting</loc></url>
+  <url><loc>https://onasglobal.com/staffing/professional-services</loc></url>
+  <url><loc>https://onasglobal.com/staffing/edtech-solutions</loc></url>
+</urlset>

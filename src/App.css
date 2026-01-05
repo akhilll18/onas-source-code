@@ -1,0 +1,24 @@
+
+.shadow-md {
+	box-shadow: 0 4px 16px 0 rgba(0,27,58,0.10);
+}
+.rounded-lg {
+	border-radius: 16px;
+}
+.transition {
+	transition: all 0.2s cubic-bezier(.4,0,.2,1);
+}
+.text-primary {
+	color: #001B3A;
+}
+.text-secondary {
+	color: #57606a;
+}
+.bg-primary {
+	background: #001B3A;
+	color: #fff;
+}
+.bg-gradient {
+	background: linear-gradient(90deg, #2D0303, #5B0A0A);
+	color: #fff;
+}
